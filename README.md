@@ -68,11 +68,4 @@ Through this project, I learned:
 
 ## References
 
-https://learn.microsoft.com/en-us/training/modules/analyze-text-with-text-analytics-service/4-exercise
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
+Exercise: [Microsoft Training Module](https://learn.microsoft.com/en-us/training/modules/analyze-text-with-text-analytics-service/4-exercise)
